@@ -1,0 +1,3 @@
+Flask
+pyotp
+google-cloud-secret-manager
